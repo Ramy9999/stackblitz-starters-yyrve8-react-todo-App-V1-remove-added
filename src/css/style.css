@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 1rem;
+  font-family: system-ui, sans-serif;
+  color: black;
+  background-color: white;
+}
+
+h1 {
+  font-weight: 800;
+  font-size: 1.5rem;
+}
+
+.beeko {
+  width: '87%';
+  height: '6.6vh';
+  border-style: 'ridge';
+  border-radius: 5;
+  border-width: 1.6;
+  border-color: 'white';
+}
+
+.redy {
+  color: 'red';
+}
